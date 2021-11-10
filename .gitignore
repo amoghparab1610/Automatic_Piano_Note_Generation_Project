@@ -1,4 +1,8 @@
 music/
+<<<<<<< HEAD
 .ipynb_checkpoints
 sample/
 output/
+=======
+.ipynb_checkpoints
+>>>>>>> b3e312c17d561899fe91d1110c767601612379ba
