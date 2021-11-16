@@ -1,0 +1,3 @@
+Training size : (2390, 2400, 2048)
+Test size : (329, 2400, 2048)
+Validation size : (288, 2400, 2048)
