@@ -1,3 +1,11 @@
-Training size : (2390, 2400, 2048)
-Test size : (329, 2400, 2048)
+Input : (Num of samples,  No of time steps, No of Frequency values)
+
+Training size : (2400, 2400, 2048)
+Test size : (320, 2400, 2048)
 Validation size : (288, 2400, 2048)
+
+Output : (Num of samples, No of time steps, No of distinct key combinations)
+
+Training size : (2400, 2400, 623198)
+Test size : (320, 2400, 623198)
+Validation size : (288, 2400, 623198)
