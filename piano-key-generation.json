@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "piano-key-generation",
+  "private_key_id": "68aafe19ee4796b79abac8e09b03efe892b247f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmkz6J982WMHUf\nxTzTqJRWmhrkETP0v7Mwq9BbAI4cNZ3Kikn6NSHDP9twswl74c23bjf3D0rR3XJ3\nYoPVDiNBw9qFdKn+acVmEPn343Iom9PlOdy4kpXP2RDO69KYmY92SXFipNsurRBM\nqZHx9Zfb4kIiYOYQJtG27VyW4LqlAS7Pz4yqU/PkFd6mj2E7ly5jecGmHw9I8Dca\nW2w51lD0Wb8CpJx4a80m92zCQkspBfjZ43AUsoT93OtHP/2OPX3TQqsAOu1//gK8\npppCxIyzNuOqnqUPU5Yr6c/oqTTyef4/HD4+v57xxdX2rSUv2AfWR53o1LTbtn+M\np8pC9Oc1AgMBAAECggEAAUplODWnLLvIsOliiJwZRy015Om8r2B5ejirJDW91OUM\n1XaIqlGVYKJvD7eDNgx43dCY7w0872R/PSEbjE8g40FzFlrJoX0meU4UuYngZWa/\nA9IFoJj+oQl0+aftZ98bqqZrMKKHbWhhXNGNwqdFZTCWb9nfIeKYQVk10ELtdoSw\n0gXq0RtsilauQ3SayY0bKaZ4XxYV5Z95Z2ANyZeNvTTtFpiqM+xsSG8+hvxeoSWJ\nZsqvVfUjPWdaI8AG/u9DegF6WIQUD9tVQeSfZ8Ozv8K9QlSugFbMA/5UFC1YKxce\nDRa12CdO1T75FJWH2Cbidg0GBQkqdGExHkZa1trwWQKBgQDfYLwQILXVF8+eiMJe\n32ZFrb8iBMuNAYp3mtrGR40vVWZw+T+EjT8M+H1Hsz3yarroxMesup9BpCCpyesP\n7uNIDJPJkRYtJIgyWSMxNwjmbgokFgnrkrlHaJbqExVvd1jJ2/zLHmGw0tJe+Jw0\nF1oHhuy+poGW2x9otB72uFNzzQKBgQC+5t5j4BkV2UbzAEWV4X5T+Rf15C9wlpFW\nqQ0Z6f/D1GFYa7LlRBDdHFHRrxqs+mWOFtp7XvlltWwh3jDMdojZBk718JhjHr5i\nvuMUobV5AqxhmlxUw5faqNBeF42VVJjs+v7nr7ZKjzBT6x9Et+0FlQn9mtsEfsXV\nUM10bmIpCQKBgCfBf7cfGz2hz0HX9UANYpZkJfBYCiI+c/Z1iRphAa+681CIC9X7\njY0xbJqmPBA5Dqr+2srTLCTyoR2W4k8jpS/djTACsn+2UMclNi48LUlVrFhf08Qp\niPA8nR9r5hTAmPzUOlmsPpbJ7scYWDStM0jDqr8Dw2yl8yEfbaNbiv7BAoGAbxAB\n8jk+Xue5z0YpNbmqtVAGEJhgwS/X/oL7jEgG9Pdqava9bYTcCsefEk69RkWnL7M8\nCOqIThPuhQWvfkS3+QsihRMklQYd3XUQx8AMxAo6H86eSPJCNoRgNV2ekXJWRgkA\no+omM9p6U1hHKMOYsdazqUeehE786c3IuiQ+F4ECgYEAz1FFR6jaJRYJP2Ngu8tV\nqaNVxIGQE1yh4FWX8uedqsQTb5NXZsFsjC+2DYiextrvn56UVOiIGnxGAoYh0pdD\neQunZqAU60ktnJTkuqAP6ixE8YlbrdoTOyCK/zeZ6sgDUg4kbwrJK/Q2s0Ur1I4r\nVuHEQJN+pgESEg59SqaL2b4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "piano-service@piano-key-generation.iam.gserviceaccount.com",
+  "client_id": "107622550636994230429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piano-service%40piano-key-generation.iam.gserviceaccount.com"
+}
